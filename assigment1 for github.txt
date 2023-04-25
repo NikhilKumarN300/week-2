@@ -1,0 +1,77 @@
+1. Algorithms on Library Management System
+
+step1: start
+step2:open Library Management System website/app
+step3:select the user type either student or management staff
+      if the student/management staff is not registered then click on register button/icon
+step4:enter the details for register the process
+      after registering you will recive the OTP on your mobile number/email id
+      if OTP is recived enter the OTP  else resend the OTP, after receving the OTP login   using username and password
+step5:after sucessfull login you will be entered to the library
+step6:now a student/staff enter in to the library and ask to the librarian for searching the required books
+step7: enter library database if u find the book give the sitting position
+      else print book is not available
+step8:after reading the book 
+      if you want to return the book to librarian,enter the student/staff member id and   submit the book and you will receive a notification to email id/mobile number as book is     returned 
+     else if you wants to borrow/take the book, scan your id and you will recive a notification to email id/mobile number as book is issued
+step9:stop
+------------------------------------------------------------------------------------
+
+2. Algorithms on ATM transactions 
+
+step1: start
+step2: enter the card
+step3:check if card is valid
+step4:if  card is valid proceed for the next step
+      else return card
+step5: enter the language
+step6: enter the 4-digit ATM pin
+step7:select the type of transaction
+step8:select the type of account
+step9:enter the withdrawal amount
+step10:collect the cash
+step11:take a print recipt,if needed
+step12:stop
+---------------------------------------------------------------------------------------
+
+3. Algorithms restaurant management system:
+     a. Order management algorithm
+     b. Kitchen management algorithm 
+     c. Employee management algorithm
+
+
+a. Order management algorithm 
+
+step 1: Start
+step 2: receive the menu
+step 3: search for the good food and cost
+step 4: cost min 100
+step 5: order
+step 6: receive another menu
+step 7: cost>100
+step 8: order
+step 9:The ordered food taken to the kitchen department
+step 9: stop
+
+
+b. Kitchen management algorithm:
+
+step 1: start
+step 2: Accept the order from the customer
+step 3: After accepting the order
+step 4: see for ordered ingridents to make food
+step 5: if items are available or not
+step 6: item is available
+step 7: start to prepare
+step 8: After making food give it to the customer from kitchen
+step 9: stop
+
+c. Employee management system:
+
+step 1: start
+step 2: interview process
+step 3: if selected
+step 4: submitting the documents
+step 5: joining as employee
+step 6: stop
+ 
